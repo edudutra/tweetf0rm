@@ -1,0 +1,50 @@
+{
+    "eleicoes": {
+        "geocode": null,
+        "terms": ["\"eleicoes\"", "\"eleicoes 2018\"", "\"#eleicoes2018\"", "\"#eleicoes\"", "\"#eleicoes 2018\""],
+        "since_id": 1,
+        "lang": "pt"
+    },
+    "bolsonaro": {
+        "geocode": null,
+        "terms": ["\"bolsonaro\"", "\"@jairbolsonaro\""],
+        "since_id": 1,
+        "lang": "pt"
+    },
+    "ciro": {
+        "geocode": null,
+        "terms": ["\"ciro gomes\"", "\"cirogomes\"", "\"ciro 2018\"", "\"#ciro2018\"", "\"#cirogomes2018\"", "\"#ciropresidente\"", "\"@cirogomes\""],
+        "since_id": 1,
+        "lang": "pt"
+    },
+    "alckmin": {
+        "geocode": null,
+        "terms": ["\"alckmin\"", "\"#geraldopresidente\"", "\"geraldo 2018\"", "\"@geraldoalckmin\""],
+        "since_id": 1,
+        "lang": "pt"
+    },
+    "meirelles": {
+        "geocode": null,
+        "terms": ["\"@meirelles\"", "\"meirelles presidente\"", "\"henrique meirelles\"", "\"#ChamaOMeirelles\""],
+        "since_id": 1,
+        "lang": "pt"
+    },
+    "marina": {
+        "geocode": null,
+        "terms": ["\"@marinasilva\"", "\"marina silva\"", "\"marina presidente\"", "\"marina 2018\"", "\"#marinapresidente\"", "\"marina2018\""],
+        "since_id": 1,
+        "lang": "pt"
+    },
+    "amoedo": {
+        "geocode": null,
+        "terms": ["\"@joaoamoedonovo\"", "\"amoedo\""],
+        "since_id": 1,
+        "lang": "pt"
+    },
+    "manuela": {
+        "geocode": null,
+        "terms": ["\"@manueladavila\"", "\"manuela presidente\"", "\"#manu2018\"", "\"manuela 2018\""],
+        "since_id": 1,
+        "lang": "pt"
+    }
+}
